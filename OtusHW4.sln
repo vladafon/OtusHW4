@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OtusHW4", "OtusHW4\OtusHW4.csproj", "{DC6554B8-7040-4D13-9807-4B9231AAA941}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OtusHW4.Core", "Core\OtusHW4.Core.csproj", "{E2A945BB-8B02-42C3-9282-6525E27E28AA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OtusHW4.PluginsManager", "OtusHW4.PluginsManager\OtusHW4.PluginsManager.csproj", "{1E25AAE9-0977-4B9C-ADDD-7B0F2C1608CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OtusHW4.Plugin", "OtusHW4.Plugin\OtusHW4.Plugin.csproj", "{09C69DE4-4648-4825-83CC-FCC329EBD5E9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC6554B8-7040-4D13-9807-4B9231AAA941}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC6554B8-7040-4D13-9807-4B9231AAA941}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC6554B8-7040-4D13-9807-4B9231AAA941}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC6554B8-7040-4D13-9807-4B9231AAA941}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2A945BB-8B02-42C3-9282-6525E27E28AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2A945BB-8B02-42C3-9282-6525E27E28AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2A945BB-8B02-42C3-9282-6525E27E28AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2A945BB-8B02-42C3-9282-6525E27E28AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E25AAE9-0977-4B9C-ADDD-7B0F2C1608CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E25AAE9-0977-4B9C-ADDD-7B0F2C1608CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E25AAE9-0977-4B9C-ADDD-7B0F2C1608CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E25AAE9-0977-4B9C-ADDD-7B0F2C1608CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09C69DE4-4648-4825-83CC-FCC329EBD5E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09C69DE4-4648-4825-83CC-FCC329EBD5E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09C69DE4-4648-4825-83CC-FCC329EBD5E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09C69DE4-4648-4825-83CC-FCC329EBD5E9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6675DE24-886F-4FCD-B9CD-BE6F6135389A}
+	EndGlobalSection
+EndGlobal
