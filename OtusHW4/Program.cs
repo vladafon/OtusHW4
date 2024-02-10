@@ -3,7 +3,7 @@ using OtusHW4.PluginsManager;
 
 Console.WriteLine("Запускаем загрузку плагинов");
 
-var pathToFolder = "C:\\Users\\Администратор.WIN-A4RBFQ3J62N\\source\\repos\\OTUS\\OtusHW4\\Plugins";
+var pathToFolder = "../../../../Plugins";
 
 var pluginLoader = new PluginsLoader();
 
